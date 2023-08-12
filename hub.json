@@ -8,6 +8,9 @@
     "arnoN7": [
         "dbt-incremental-stream"
     ],
+    "danthelion": [
+        "dbt_cloud_run_cost"
+    ],
     "Datavault-UK": [
         "dbtvault"
     ],
